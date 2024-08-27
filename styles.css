@@ -1,0 +1,41 @@
+body {
+  color: rgb(152, 97, 25);
+  background: rgb(13, 64, 74)
+}
+
+header{
+  border-bottom: solid 1px rgb(185, 121, 19)
+
+}
+
+.chamada {
+background: rgb(70, 69, 69)
+}
+
+.chamada-texto {
+ margin-right: 5%
+} 
+
+h1{
+  font-size: 39px
+}
+img{
+ height: 250px
+}
+.categoria{
+ gap: 10px
+
+}
+
+.categoria-videos img{
+ opacity: 0,5
+
+}
+
+.categoria-videos img:hover{
+opacity: 1,0
+}
+
+.categoria h2{
+color: white
+}
